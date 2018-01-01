@@ -1,8 +1,7 @@
 Alexa Integration - Substitute teacher plan - Leibniz Gymnasium Leipzig (Indiware?)
+===============
 
 Simple AWS lambda function for Alexa Integration
-
-
 
 Deployment:
 7z a -tzip lambda.zip -r *.*
